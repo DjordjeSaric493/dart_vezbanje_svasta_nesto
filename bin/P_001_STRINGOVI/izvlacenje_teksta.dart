@@ -1,4 +1,4 @@
-import 'package:p_001/izvlačenje_teksta.dart';
+import 'package:p_001/P_001_STRINGOVI/izvla%C4%8Denje_teksta.dart';
 
 //desni klik na fajl u bin sa main method
 // run without debugging i aukurac

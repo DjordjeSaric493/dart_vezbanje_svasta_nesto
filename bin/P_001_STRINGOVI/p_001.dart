@@ -1,5 +1,5 @@
-import 'package:p_001/p_001.dart' as p_001;
-import 'package:p_001/p_001.dart';
+import 'package:p_001/P_001_STRINGOVI/p_001.dart' as p_001;
+import 'package:p_001/P_001_STRINGOVI/p_001.dart';
 
 void main(List<String> arguments) {
   //obrati pažnju na lib p_001
